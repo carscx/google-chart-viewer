@@ -4,16 +4,17 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "commonjs",
     "declaration": true,
+    "declarationDir": "./dist", // Asegúrate de especificar la carpeta para las declaraciones
     "outDir": "./dist",
     "strict": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "baseUrl": "./",
     "paths": {
       "@/*": ["src/*"]
     },
-    "resolveJsonModule": true, 
+    "resolveJsonModule": true
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
