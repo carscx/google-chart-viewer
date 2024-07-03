@@ -1,0 +1,7 @@
+{
+  "exportToCsv": "Export to CSV",
+  "exportToPdf": "Export to PDF",
+  "selectChartType": "Select chart type",
+  "barChart": "Bar chart",
+  "pieChart": "Pie chart"
+}

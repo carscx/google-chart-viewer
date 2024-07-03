@@ -1,0 +1,7 @@
+{
+  "exportToCsv": "Exportar a CSV",
+  "exportToPdf": "Exportar a PDF",
+  "selectChartType": "Seleccionar tipo de gráfico",
+  "barChart": "Gráfico de barras",
+  "pieChart": "Gráfico circular"
+}
